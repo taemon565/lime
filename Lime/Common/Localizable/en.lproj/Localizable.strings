@@ -1,0 +1,6 @@
+// MARK: - Feed
+"Feed.SearchBar.Placeholder" = "Напишите название телеканала";
+
+// MARK: - Tab
+"Tab.All" = "Все";
+"Tab.Favorites" = "Избранные";
